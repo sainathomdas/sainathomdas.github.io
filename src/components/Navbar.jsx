@@ -30,12 +30,12 @@ function Navbar() {
               </ScrollLink>
             </MDBNavItem>
             <MDBNavItem>
-              <ScrollLink spy smooth offset={-80} duration={500} className="nav-link" to="projects" onClick={()=>setIsNavbarOpen(false)}>
+              <ScrollLink spy smooth offset={-30} duration={500} className="nav-link" to="projects" onClick={()=>setIsNavbarOpen(false)}>
                 Projects
               </ScrollLink>
             </MDBNavItem>
             <MDBNavItem>
-              <ScrollLink spy smooth offset={-80} duration={500} className="nav-link" to="contact" onClick={()=>setIsNavbarOpen(false)}>
+              <ScrollLink spy smooth offset={-60} duration={500} className="nav-link" to="contact" onClick={()=>setIsNavbarOpen(false)}>
                 Contact
               </ScrollLink>
             </MDBNavItem>
