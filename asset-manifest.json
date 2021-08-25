@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.f207f3cc.chunk.css",
-    "main.js": "/static/js/main.417b30e5.chunk.js",
-    "main.js.map": "/static/js/main.417b30e5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.333a22af.js",
-    "runtime-main.js.map": "/static/js/runtime-main.333a22af.js.map",
+    "main.js": "/static/js/main.baf2e2b6.chunk.js",
+    "main.js.map": "/static/js/main.baf2e2b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49711b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49711b.js.map",
     "static/css/2.24956f9b.chunk.css": "/static/css/2.24956f9b.chunk.css",
-    "static/js/2.68361e8e.chunk.js": "/static/js/2.68361e8e.chunk.js",
-    "static/js/2.68361e8e.chunk.js.map": "/static/js/2.68361e8e.chunk.js.map",
-    "static/js/3.92514fee.chunk.js": "/static/js/3.92514fee.chunk.js",
-    "static/js/3.92514fee.chunk.js.map": "/static/js/3.92514fee.chunk.js.map",
+    "static/js/2.ee0ec549.chunk.js": "/static/js/2.ee0ec549.chunk.js",
+    "static/js/2.ee0ec549.chunk.js.map": "/static/js/2.ee0ec549.chunk.js.map",
+    "static/js/3.783e8d1a.chunk.js": "/static/js/3.783e8d1a.chunk.js",
+    "static/js/3.783e8d1a.chunk.js.map": "/static/js/3.783e8d1a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.24956f9b.chunk.css.map": "/static/css/2.24956f9b.chunk.css.map",
     "static/css/main.f207f3cc.chunk.css.map": "/static/css/main.f207f3cc.chunk.css.map",
-    "static/js/2.68361e8e.chunk.js.LICENSE.txt": "/static/js/2.68361e8e.chunk.js.LICENSE.txt",
+    "static/js/2.ee0ec549.chunk.js.LICENSE.txt": "/static/js/2.ee0ec549.chunk.js.LICENSE.txt",
     "static/media/HospitalManagementSystem.png": "/static/media/HospitalManagementSystem.3319f304.png",
     "static/media/RetailBanking.png": "/static/media/RetailBanking.fdb51813.png",
     "static/media/mdb.css": "/static/media/arrow_right.f7c6ac6d.svg",
-    "static/media/cap.png": "/static/media/cap.3ad1382d.png",
     "static/media/cdtc.png": "/static/media/cdtc.b0f3c969.png",
     "static/media/examination_branch.png": "/static/media/examination_branch.af643051.png",
     "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
@@ -25,10 +24,6 @@
     "static/media/icacii.png": "/static/media/icacii.4db4534d.png",
     "static/media/image_captioning.png": "/static/media/image_captioning.56cdfcd8.png",
     "static/media/me.jpg": "/static/media/me.4981fbf2.jpg",
-    "static/media/newton.gif": "/static/media/newton.ea1c1998.gif",
-    "static/media/p1.jpg": "/static/media/p1.977c9e78.jpg",
-    "static/media/p2.jpg": "/static/media/p2.df6ab933.jpg",
-    "static/media/pp.jpg": "/static/media/pp.a8c0c1af.jpg",
     "static/media/preloader.gif": "/static/media/preloader.f89b1271.gif",
     "static/media/preloader2.gif": "/static/media/preloader2.75845621.gif",
     "static/media/preloader3.gif": "/static/media/preloader3.fa074571.gif",
@@ -37,10 +32,10 @@
     "static/media/womensclub.png": "/static/media/womensclub.11b78b54.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.333a22af.js",
+    "static/js/runtime-main.8f49711b.js",
     "static/css/2.24956f9b.chunk.css",
-    "static/js/2.68361e8e.chunk.js",
+    "static/js/2.ee0ec549.chunk.js",
     "static/css/main.f207f3cc.chunk.css",
-    "static/js/main.417b30e5.chunk.js"
+    "static/js/main.baf2e2b6.chunk.js"
   ]
 }
