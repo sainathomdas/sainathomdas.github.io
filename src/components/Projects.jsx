@@ -38,11 +38,12 @@ function Projects() {
             {projects.map((p, index) => {
               // delaying animation according to the screen size
               if (windowSize.width >= 992) {
-                if (proj_num % 3 === 0) delay = 0;
+                // dividing by no.of cards in a row
+                if (proj_num % 3 === 0) delay = 0; 
                 else if (proj_num % 3 === 1) delay = 200;
                 else delay = 400;
               } else if (windowSize.width >= 576) {
-                if (proj_num % 3 === 0) delay = 0;
+                if (proj_num % 2 === 0) delay = 0;
                 else delay = 300;
               } else delay = 0;
 

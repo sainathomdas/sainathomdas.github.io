@@ -23,7 +23,7 @@ function About() {
               Institutions in the year of 2020.
               <br />I enjoy coding and would like to work in a environment where I can prove and improve my skills.
               <div className="mt-5 text-white">
-                <ScrollLink to="SainathOmdas_Resume.pdf" type="button" className="btn btn-sm btn-outline-white " title="Download Resume" target="_blank">
+                <ScrollLink to="SainathOmdas_Resume.pdf" type="button" className="btn btn-sm btn-outline-white disabled " title="Download Resume" target="_blank">
                   Resume&nbsp;&nbsp; <i className="fas fa-file-download"></i>
                 </ScrollLink>
                 <ScrollLink to="contact" spy smooth offset={-60} duration={250} className="ml-lg-5 btn btn-sm btn-outline-white">

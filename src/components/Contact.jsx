@@ -27,7 +27,7 @@ function Contact() {
                   <li >
                     <i className="fa fa-envelope fa-2x mt-4 "></i>
                     <p className="mb-0">
-                      <a href="mailto:sainathomdas@gmail.com" className="text-white" title="Send mail">
+                      <a href="mailto:sainathomdas@gmail.com" className="text-white email" title="Send e-mail">
                         sainathomdas@gmail.com
                       </a>
                     </p>
@@ -47,7 +47,11 @@ function Contact() {
                 </div>
               </form>
               <div className="text-right">
-                <MDBIcon icon="paper-plane" title="Send" className="send-icon pb-2 text-white"/>
+                <MDBIcon icon="paper-plane" title="Send" className="send-icon pb-2 text-white"
+                  onClick={()=>{
+                    alert("Kindly drop an email to sainathomdas@gmail.com as this site currently not integrated with any email service.")
+                  }}
+                />
               </div>
             </MDBContainer>
           </div>
