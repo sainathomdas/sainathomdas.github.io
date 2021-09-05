@@ -17,10 +17,13 @@ function About() {
             </div>
 
             <div data-aos="fade-left" className="offset-md-1 col-md-5 com-sm-12 mt-4 text-white text-justify">
-              I'm Sainath Omdas. I am a passionate full stack web and java developer.
+              {/* I'm Sainath Omdas, a passionate full stack web developer with strong understanding of Java and database management.
+              I'm a quick learner with good technical &amp; communication skills and I'm capable of handling multiple tasks simultaneously.
               I have been working for Tata Consultancy Services as Systems Engineer since I started my career in 2020.
                I graduated in the stream of Computer Science and Engineering from Anurag Group of
-              Institutions in the year of 2020.
+              Institutions in the year of 2020. */}
+              A passionate full stack developer with strong understanding of Java and database management.
+              Also a quick learner with good technical &amp; communication skills and capable of handling multiple tasks simultaneously.
               <br />I enjoy coding and would like to work in a environment where I can prove and improve my skills.
               <div className="mt-5 text-white">
                 <ScrollLink to="SainathOmdas_Resume.pdf" type="button" className="btn btn-sm btn-outline-white disabled " title="Download Resume" target="_blank">
