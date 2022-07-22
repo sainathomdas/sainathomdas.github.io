@@ -7,7 +7,7 @@ function HeaderContent() {
   useEffect(() => {
     init(textRef.current, {
         showCursor: true,
-        strings: ["Full Stack Web Developer", "Java Developer"],
+        strings: ["Full Stack Java Developer", "Java Developer"],
         backDelay: 1500,
         loop: true
     } )
